@@ -1,0 +1,104 @@
+{
+    "start":"02/04/2018",
+    "stop":"27/04/2018",
+    "Monday":{
+        "id": 1,
+        "planning": [
+            {
+                "begin": "09:00",
+                "end": "11:45",
+                "studentId": 6
+            }, 
+            {
+                "begin": "11:50",
+                "end": "14:30",
+                "studentId": 1
+            },
+            {
+                "begin": "14:35",
+                "end": "17:30",
+                "studentId": 2
+            }
+        ]
+    },
+    "Tuesdays":{
+        "id": 2,
+        "planning": [
+            {
+                "begin": "09:00",
+                "end": "11:45",
+                "studentId": 5
+            }, 
+            {
+                "begin": "11:50",
+                "end": "15:00",
+                "studentId": 3
+            },
+            {
+                "begin": "15:00",
+                "end": "17:30",
+                "studentId": 2
+            }
+        ]
+    },
+    "Wednesday":{
+        "id": 3,
+        "planning": [
+            {
+                "begin": "09:00",
+                "end": "11:45",
+                "studentId": 5
+            }, 
+            {
+                "begin": "11:50",
+                "end": "15:00",
+                "studentId": 6
+            },
+            {
+                "begin": "15:00",
+                "end": "17:30",
+                "studentId": 2
+            }
+        ]
+    },
+    "Thursday":{
+        "id": 4,
+        "planning": [
+            {
+                "begin": "09:00",
+                "end": "11:45",
+                "studentId": 1
+            }, 
+            {
+                "begin": "11:50",
+                "end": "15:00",
+                "studentId": 5
+            },
+            {
+                "begin": "15:00",
+                "end": "17:30",
+                "studentId": 4
+            }
+        ]
+    },
+    "Friday":{
+        "id": 5,
+        "planning": [
+            {
+                "begin": "09:00",
+                "end": "11:45",
+                "studentId": 4
+            }, 
+            {
+                "begin": "11:50",
+                "end": "15:00",
+                "studentId": 6
+            },
+            {
+                "begin": "15:00",
+                "end": "17:30",
+                "studentId": 1
+            }
+        ]
+    }
+}
