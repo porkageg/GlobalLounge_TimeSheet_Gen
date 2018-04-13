@@ -1,7 +1,8 @@
 {
-    "start":"02/04/2018",
-    "stop":"27/04/2018",
-    "Monday":{
+    "start":"2018/04/02",
+    "stop":"2018/04/27",
+    "days":[{
+        "name":"Monday",
         "id": 1,
         "planning": [
             {
@@ -21,7 +22,8 @@
             }
         ]
     },
-    "Tuesdays":{
+    {
+        "name":"Tuesdays",
         "id": 2,
         "planning": [
             {
@@ -41,7 +43,8 @@
             }
         ]
     },
-    "Wednesday":{
+    {
+        "name":"Wednesday",
         "id": 3,
         "planning": [
             {
@@ -61,7 +64,8 @@
             }
         ]
     },
-    "Thursday":{
+    {
+        "name":"Thursday",
         "id": 4,
         "planning": [
             {
@@ -81,7 +85,8 @@
             }
         ]
     },
-    "Friday":{
+    {
+    "name":"Friday",
         "id": 5,
         "planning": [
             {
@@ -100,5 +105,5 @@
                 "studentId": 1
             }
         ]
-    }
+    }]
 }
